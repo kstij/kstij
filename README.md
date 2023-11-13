@@ -15,8 +15,11 @@ Also I am Core team member in Decode Cafe Community.<br/>
 
 <h2 align="center" style="margin-top: 50px;">Status</h2>
 <p align="center">
-<img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=kshitijvarma1&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=000000"/>
+<img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=kstij&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=000000"/>
 </p>
+
+[![@kshitijvarma's Holopin board](https://holopin.me/kshitijvarma21)](https://holopin.io/@kshitijvarma21)
+
 
 # Support Me
 <a href="https://www.buymeacoffee.com/kshitijvarma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
