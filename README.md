@@ -18,6 +18,16 @@ Also I am Core team member in Decode Cafe Community.<br/>
 <img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=kstij&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=000000"/>
 </p>
 
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+	<a href="https://kshitijvarma.vercel.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/kstij" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/kshitijvarma21/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/kshitij_r_varma/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:kshitijjvarma21@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
 [![@kshitijvarma's Holopin board](https://holopin.me/kshitijvarma21)](https://holopin.io/@kshitijvarma21)
 
 
