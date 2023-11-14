@@ -1,6 +1,5 @@
-<img src="https://media0.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif" height="360" border="0" width="300"><br>
-&nbsp;<div align="right">
- [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify?border_color=BFBFB2)](https://open.spotify.com/user/31wrcoh6yemirub7yz7wjcfcobfq)
+<img src="https://media0.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif" height="360" border="0" width="48"> &nbsp;<div align="right">
+ [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify?border_color=BFBFB2)](https://open.spotify.com/user/31wrcoh6yemirub7yz7wjcfcobfq)<br>
  <img src="https://komarev.com/ghpvc/?username=kstij&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="kshitijvarma" />
 </div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+what+you+doing!" alt="Typing SVG" /></h1>
