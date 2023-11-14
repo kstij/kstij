@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif" height="360" border="0" width="480"><br>
+<img src="https://media0.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif" height="360" border="0" width="300"><br>
 &nbsp;<div align="right">
  [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify?border_color=BFBFB2)](https://open.spotify.com/user/31wrcoh6yemirub7yz7wjcfcobfq)
  <img src="https://komarev.com/ghpvc/?username=kstij&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="kshitijvarma" />
