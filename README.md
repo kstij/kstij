@@ -3,7 +3,7 @@
  <img src="https://komarev.com/ghpvc/?username=kstij&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="kshitijvarma" />
 </div>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C404&center=true&vCenter=true&width=435&lines=Hey%2C+what+you+doing!" alt="Typing SVG" /></h1>
-<p align="center" style="margin-top: 50px;">Hey, I am Kshitij Varma and Currently enrolled in Btech AI at Marwadi University. Apart from my studies, I`m GDSC WebDev Lead and OpenSource contributor at Hacktoberfest!
+<p align="center" style="margin-top: 50px;">Hey, I am Kshitij Varma and Currently enrolled in Btech AI at Marwadi University. Apart from my studies, I`m GDSC WebDev Lead , Alpha-MLSA and OpenSource contributor at Hacktoberfest!
 Also I am Core team member in Decode Cafe Community.<br/> 
 
 <div align="center" style="margin-top: 50px;">
