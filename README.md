@@ -14,6 +14,8 @@ Also I am Core team member in Decode Cafe Community.<br/>
   <img src="https://img.shields.io/badge/GCP-FD7E14?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010"/>
 </div>
 
+<h2 align="center" style="margin-top: 50px;">Status</h2>
+<p align="center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kstij&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/kstij/github-stats-transparent/output/generated/overview.svg)
