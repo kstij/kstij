@@ -14,12 +14,7 @@ Also I am Core team member in Decode Cafe Community.<br/>
   <img src="https://img.shields.io/badge/GCP-FD7E14?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010"/>
 </div>
 
-<h2 align="center" style="margin-top: 50px;">Status</h2>
-<p align="center">
-<img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=kstij&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=000000"/>
-</p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kstij&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
