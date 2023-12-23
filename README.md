@@ -16,8 +16,8 @@ Also I am Core team member in Decode Cafe Community.<br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kstij&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/kstij/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/kstij/github-stats-transparent/output/generated/languages.svg)
 
 ## 🙋‍♀️ Let's Connect
 
