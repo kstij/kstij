@@ -1,4 +1,5 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 &nbsp;<div align="center">
  [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify?border_color=BFBFB2)](https://open.spotify.com/user/31wrcoh6yemirub7yz7wjcfcobfq)<br>
  <img src="https://komarev.com/ghpvc/?username=kstij&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="kshitijvarma" />
