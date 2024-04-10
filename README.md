@@ -38,8 +38,6 @@ Also I am Core team member in Decode Cafe Community.<br/>
 
 [![@kshitijvarma's Holopin board](https://holopin.me/kshitijvarma21)](https://holopin.io/@kshitijvarma21)
 
-<a href="https://app.daily.dev/kstij"><img src="https://api.daily.dev/devcards/v2/AHswGiZDyqwnFMhJMUj5r.png?type=default&r=79k" width="356" alt="Kshitij Varma's Dev Card"/></a>
-
 
 # Support Me
 <a href="https://www.buymeacoffee.com/kshitijvarma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
