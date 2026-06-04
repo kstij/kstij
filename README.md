@@ -10,7 +10,7 @@ organize hackathons, and occasionally break prod.
   developer advocacy
    
 ### Visitor count
-![Visitor Count](https://count.getloli.com/get/@kstij?theme=nixietube-1)
+![Visitor Count](https://count.getloli.com/get/@kstij?theme=normal-1)
 
 
 ### Get in touch
